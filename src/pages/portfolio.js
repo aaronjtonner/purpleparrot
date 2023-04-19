@@ -19,7 +19,7 @@ export default function Portfolio() {
   return (
     <Layout>
       <SEO
-        title="Portfolio | Aaron Tonner Web Solutions | Websites & SEO"
+        title="Portfolio | Aaron Tonner Web Solutions | Websites & SEO "
         description="See my portfolio to view high-performance custom websites that implement winning SEO strategies for my clients. Call me at 587-437-9161 to learn more."
       />
       <BannerPrimary
