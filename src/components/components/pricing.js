@@ -76,7 +76,7 @@ const Pricing = () => {
             <GridThree>
               <Item className="spacing">
                 <h2 className="title accent upper">basic</h2>
-                <p className="bold">$297 per month</p>
+                <p className="bold">$249 per month</p>
                 <p className="body--small italics">
                   For businesses just getting started
                 </p>
