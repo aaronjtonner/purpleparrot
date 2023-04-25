@@ -76,7 +76,7 @@ const Pricing = () => {
             <GridThree>
               <Item className="spacing">
                 <h2 className="title accent upper">basic</h2>
-                <p className="bold">$195 per month</p>
+                <p className="bold">$297 per month</p>
                 <p className="body--small italics">
                   For businesses just getting started
                 </p>
@@ -88,21 +88,29 @@ const Pricing = () => {
                   <li>Monthly performance report</li>
                   <li>Daily site backups</li>
                   <li>Google Analytics</li>
-                  <li>Accept payments online</li>
+                  {/* <li>Accept payments online</li> */}
                   <li>FREE ticket to our monthly web class</li>
                   <li>Exclusive access to our weekly newsletter</li>
                   <li>3 Website templates to choose from</li>
                   <li>Up to a 5 page website</li>
-                  <li>Up to 1,000-word text copy</li>
-                  <li>Google Business Profile</li>
+                  <li>Up to 1,000-word text copy upfront</li>
+                  <li>Google Business Profile & Optimizations</li>
                   <li>30 minutes of changes per month (we work FAST)</li>
+                  <li>2 search engine optimized blogs per month</li>
+                  <li>
+                    +500 words of content added each month that target new and
+                    existing keywords
+                  </li>
                 </ul>
+                <p className="italics">
+                  *** You will own your content forever!
+                </p>
               </Item>
               <Item className="spacing">
                 <div>
                   <h2 className="title accent upper">pro</h2>
                 </div>
-                <p className="bold">$495 per month</p>
+                <p className="bold">$497 per month</p>
                 <p className="body--small italics">
                   For businesses investing in marketing with search engine
                   optimization{" "}
@@ -124,8 +132,15 @@ const Pricing = () => {
                   </li>
                   <li>90 minutes of changes per month (we work FAST)</li>
                   <li>1 complimentary consultation per month</li>
-                  <li>2 search engine optimized blogs per month</li>
+                  <li>4 search engine optimized blogs per month</li>
+                  <li>
+                    +1200 words of content added each month that target new and
+                    existing keywords
+                  </li>
                 </ul>
+                <p className="italics">
+                  *** You will own your content forever!
+                </p>
               </Item>
               <Item className="spacing">
                 <h2 className="title accent upper">advanced</h2>
