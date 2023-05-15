@@ -4,7 +4,7 @@ import styled from "styled-components"
 import { Container } from "../layoutComponents"
 import { IoMdArrowDropdown } from "react-icons/io"
 
-import Logo from "../../images/logo-placeholder.svg"
+import Logo from "../../images/purple-parrot-websites-light.svg"
 
 const device = {
   sm: "18em",
@@ -133,14 +133,13 @@ const GetQuote = styled(props => <Link {...props} />)`
   transition: all 0.25s linear;
 
   background: var(--clr-accent);
-  color: var(--txt-light);
+  color: #000;
   border: 1px solid var(--clr-accent);
   border-radius: 4px;
   box-shadow: rgba(0, 0, 0, 0.1) 0 2px 4px 0;
 
   &:hover {
     background: var(--clr-accent-darker);
-    color: var(--txt-light);
   }
 `
 

@@ -28,7 +28,7 @@ export default function Benefits() {
     <Section>
       <Container className="spacing-md">
         <Text className="center">
-          <h2 className="title">The Benefits Of purple parrot websites</h2>
+          <h2 className="title dark">The Benefits Of purple parrot websites</h2>
         </Text>
         <GridThree>
           <BenefitItem className="spacing center">
@@ -37,10 +37,10 @@ export default function Benefits() {
               alt="5 star calgary web design services"
               height={80}
             />
-            <h3 className="title caps">prebuilt hand-coded custom websites</h3>
+            <h3 className="title dark caps">prebuilt hand-coded custom websites</h3>
             <p>
               The Purple Parrot's prebuild{" "}
-              <span className="italics accent">
+              <span className="italics dark">
                 highly customizable websites
               </span>{" "}
               meant for maximum speed, lead generation, and SEO.
@@ -52,11 +52,11 @@ export default function Benefits() {
               alt="results based calgary webdsite design"
               height={80}
             />
-            <h3 className="title caps">contractless</h3>
+            <h3 className="title dark caps">contractless</h3>
             <p>
               Never get locked into a toxic contract again. With the Purple
               Parrot's, you will{" "}
-              <span className="italics accent">
+              <span className="italics dark">
                 save money by getting a customized website for $0 down
               </span>
               , on a wildly affordable monthly investment starting at $195 where
@@ -69,11 +69,11 @@ export default function Benefits() {
               alt="trusted web designer calgary"
               height={80}
             />
-            <h3 className="title caps">own your content forever</h3>
+            <h3 className="title dark caps">own your content forever</h3>
             <p>
               Never worry about creating content again. Whether you choose to
               stick with the Purple Parrot's for 3 days, 3 months, or 3 years,{" "}
-              <span className="italics accent">
+              <span className="italics dark">
                 you will always own the SEO content the Parrot's build for you.
               </span>
             </p>

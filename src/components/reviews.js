@@ -75,7 +75,7 @@ const Flex = styled.div`
 `
 
 const fontStyle = {
-  color: "var(--clr-accent)",
+  color: "var(--clr-dark)",
 }
 
 const Review = props => {
@@ -97,7 +97,7 @@ const Review = props => {
           <a
             href="https://www.google.com/maps/place/Aaron+Tonner+Web+Solutions/@51.0276233,-114.087835,10z/data=!4m8!3m7!1s0x8984d19ad4196043:0xa41e3748c364663b!8m2!3d51.0276233!4d-114.087835!9m1!1b1!16s%2Fg%2F11p001rjcp"
             target="_blank"
-            className="accent"
+            className="dark"
           >
             Read more Google reviews &#8594;
           </a>

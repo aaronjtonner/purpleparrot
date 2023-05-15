@@ -39,7 +39,7 @@ export default function Team() {
       <Container className="spacing-lg">
         <Text className="spacing-md">
           <h2 className="title">
-            meet the <span className="italics accent">purple parrot's</span>
+            meet the <span className="italics dark">purple parrot's</span>
           </h2>
           <div className="spacing">
             <p>
@@ -67,19 +67,19 @@ export default function Team() {
         </Text>
         <Flex>
           <div className="center">
-            <StaticImage className="headshot-img" src="../images/aaron.jpg" />
+            <StaticImage className="headshot-img" src="../images/aaron-p.jpg" />
             <h3 className="body--small caps italics">
-              aaron tonner <br /> the former housemate that:{" "}
-              <span className="accent">
+              aaron tonner <br /> the former housemate that:{" "} <br />
+              <span className="secondary body--large">
                 uses communal toilet paper to blow his nose
               </span>{" "}
             </h3>
           </div>
           <div className="center">
-            <StaticImage className="headshot-img" src="../images/mike.jpg" />
+            <StaticImage className="headshot-img" src="../images/mike-p.jpg" />
             <h3 className="body--small caps italics">
-              mike van der poel <br /> the former housemate that:{" "}
-              <span className="accent">
+              mike van der poel <br /> the former housemate that:{" "} <br />
+              <span className="secondary body--large">
                 leaves his alarm clock plugged in after leaving for the weekend
                 and locks his door
               </span>{" "}

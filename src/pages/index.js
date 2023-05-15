@@ -37,10 +37,10 @@ export default function index() {
           <Flex>
             <div className="spacing">
               <div>
-                <p className="subheader accent italics">
+                <p className="subheader dark italics">
                   websites without the birdin'
                 </p>
-                <h2 className="title">
+                <h2 className="title dark">
                   SEO websites that are live before you can say “purple parrots”
                 </h2>
               </div>
@@ -74,10 +74,10 @@ export default function index() {
             />
             <div className="spacing">
               <div>
-                <p className="subheader bold caps accent italics">
+                <p className="subheader bold caps dark italics">
                   websites without the birdin'
                 </p>
-                <h2 className="title">
+                <h2 className="title dark">
                   custom SEO websites without the massive investment
                 </h2>
               </div>

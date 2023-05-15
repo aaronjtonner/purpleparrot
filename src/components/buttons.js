@@ -17,14 +17,13 @@ export const ButtonPrimary = styled(props => <Link {...props} />)`
   transition: all 0.25s linear;
 
   background: var(--clr-accent);
-  color: var(--txt-light);
+  color: #000;
   border: 1px solid var(--clr-accent);
   border-radius: 4px;
   box-shadow: rgba(0, 0, 0, 0.1) 0 2px 4px 0;
 
   &:hover {
     background: var(--clr-accent-darker);
-    color: var(--txt-light);
   }
 
   // this is for when an icon is used inside too
