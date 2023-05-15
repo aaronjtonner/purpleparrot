@@ -41,7 +41,7 @@ export default function Cta1() {
           </p>
           <Actions>
             <ButtonPrimary to="/contact">
-              start your 30-day trial &#8594;
+              book your free call now &#8594;
             </ButtonPrimary>
           </Actions>
         </Text>

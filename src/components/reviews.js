@@ -137,7 +137,7 @@ const AllReviews = props => {
                 <p className="light">
                   A lot of our clients don't have the cash flow for a large
                   upfront investment - our websites are $0 down, starting at
-                  $195 per month with no minimum contract. Our clients love
+                  $249 per month with no minimum contract. Our clients love
                   saving money!
                 </p>
                 <p className="light">
@@ -149,7 +149,7 @@ const AllReviews = props => {
                 </p>
               </div>
               <ButtonPrimary to="/contact">
-                get started with a free trial &#8594;
+                book a free call now &#8594;
               </ButtonPrimary>
             </div>
             {/* <FlexStars>

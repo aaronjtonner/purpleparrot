@@ -102,7 +102,7 @@ export default function HeroBasic() {
                 on your part. 
               </p>
               <ButtonPrimary to="/contact">
-                get a 30-day trial &#8594;
+                book a free call now &#8594;
               </ButtonPrimary>
             </Text>
             <StaticImage

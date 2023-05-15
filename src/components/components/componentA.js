@@ -48,7 +48,7 @@ const ComponentA = () => {
               </div>
               <p>
                 Save money and never get locked into a toxic contract again. Get
-                a customized website for $0 down, $200 per month, no minimum
+                a customized website for $0 down, $249 per month, no minimum
                 monthly contract, pay-as-you-go, and cancel anytime with no fees
                 or hassles for full control of what you’re spending. Our
                 prebuilt websites are less expensive compared to regular,
@@ -56,7 +56,7 @@ const ComponentA = () => {
                 business.
               </p>
               <ButtonPrimary to="/contact">
-                start your 30-day trial &#8594;
+                book a free call now &#8594;
               </ButtonPrimary>
             </Text>
             <StaticImage

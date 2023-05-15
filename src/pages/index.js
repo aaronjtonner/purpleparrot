@@ -46,7 +46,7 @@ export default function index() {
               </div>
               <p>
                 We offer prebuilt SEO websites that will get your business
-                online before you can say “ … “ Our custom, hand-coded SEO
+                online before you can say "Purple Parots"! Our custom, hand-coded SEO
                 websites come prebuilt which means you don’t have to go through
                 the excruciating pain of working with your typical web design
                 company as they take 3+ months to build out your website from
@@ -56,7 +56,7 @@ export default function index() {
                 completely aligned with the vision of your brand. 
               </p>
               <ButtonPrimary to="/contact">
-                get a free trial &#8594;
+                book a free call now &#8594;
               </ButtonPrimary>
             </div>
             <StaticImage
@@ -90,7 +90,7 @@ export default function index() {
                 customers, fast.
               </p>
               <ButtonPrimary to="/contact">
-                contact the purple parrot's &#8594;
+                talk to the parrot's &#8594;
               </ButtonPrimary>
             </div>
           </FlexMobileOpp>
