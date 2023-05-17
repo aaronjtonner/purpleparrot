@@ -91,7 +91,7 @@ export default function Reviews() {
         to2="/reviews"
         link2="Reviews"
         title="Reviews"
-        description="I do things differently here... I build websites to help your business get REAL results (just like how I helped a local contractor 16X his service calls). That's probably why I'm so highly reviewed (yeah, I said it)."
+        description="I do things differently here... I build websites to help your business get real results (just like how I helped a local contractor 16X his service calls). That's probably why I'm so highly reviewed (yeah, I said it)."
       />
       <Section>
         <Container>
