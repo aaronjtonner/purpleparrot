@@ -9,7 +9,7 @@ const Wrapper = styled.div`
 `
 
 const Text = styled.div`
-  max-width: 70ch;
+  max-width: 90ch;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -30,7 +30,7 @@ export default function Cta1() {
             </p>
             <h2 className="title accent">
               Transform your online presence with the Purple Parrot's exclusive
-              website leasing service
+              SEO + free website service
             </h2>
           </div>
           <p className="">

@@ -84,23 +84,23 @@ const Pricing = () => {
                   start trial &#8594;
                 </ButtonSecondary>
                 <ul>
-                  <li>24/7 Support and maintenance</li>
+                  {/* <li>24/7 Support and maintenance</li>
                   <li>Monthly performance report</li>
                   <li>Daily site backups</li>
-                  <li>Google Analytics</li>
+                  <li>Google Analytics</li> */}
                   {/* <li>Accept payments online</li> */}
-                  <li>FREE ticket to our monthly web class</li>
-                  <li>Exclusive access to our weekly newsletter</li>
+                  {/* <li>FREE ticket to our monthly web class</li>
+                  <li>Exclusive access to our weekly newsletter</li> */}
                   <li>3 Website templates to choose from</li>
                   <li>Up to a 5 page website</li>
                   <li>Up to 1,000-word text copy upfront</li>
-                  <li>Google Business Profile & Optimizations</li>
+                  {/* <li>Google Business Profile & Optimizations</li> */}
                   <li>30 minutes of changes per month (we work FAST)</li>
-                  <li>2 search engine optimized blogs per month</li>
-                  <li>
+                  <li>1 search engine optimized blogs per month</li>
+                  {/* <li>
                     +500 words of content added each month that target new and
                     existing keywords
-                  </li>
+                  </li> */}
                 </ul>
                 <p className="italics">
                   *** You will own your content forever!
@@ -117,13 +117,13 @@ const Pricing = () => {
                 </p>
                 <ButtonPrimary to="/contact">get started &#8594;</ButtonPrimary>
                 <ul>
-                  <li>24/7 Support and maintenance</li>
+                  {/* <li>24/7 Support and maintenance</li> */}
                   <li>Monthly performance report</li>
                   <li>Daily site backups</li>
                   <li>Google Analytics</li>
-                  <li>Accept payments online</li>
+                  {/* <li>Accept payments online</li>
                   <li>FREE ticket to our monthly web class</li>
-                  <li>Exclusive access to our weekly newsletter</li>
+                  <li>Exclusive access to our weekly newsletter</li> */}
                   <li>10 Website templates to choose from</li>
                   <li>Up to a 10 page website</li>
                   <li>Up to 3,000-word text copy</li>
@@ -131,12 +131,12 @@ const Pricing = () => {
                     Google Business Profile, Yellow Pages, Yelp, and 5+ more
                   </li>
                   <li>90 minutes of changes per month (we work FAST)</li>
-                  <li>1 complimentary consultation per month</li>
-                  <li>4 search engine optimized blogs per month</li>
-                  <li>
+                  {/* <li>1 complimentary consultation per month</li> */}
+                  <li>2 search engine optimized blogs per month</li>
+                  {/* <li>
                     +1200 words of content added each month that target new and
                     existing keywords
-                  </li>
+                  </li> */}
                 </ul>
                 <p className="italics">
                   *** You will own your content forever!

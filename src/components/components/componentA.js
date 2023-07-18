@@ -40,20 +40,18 @@ const ComponentA = () => {
             <Text className="spacing">
               <div>
                 <p className="subheader accent italics">
-                  pay-as-you-go website leasing
+                  pay-as-you-go SEO + free website
                 </p>
                 <h2 className="title">
-                  websites effortlessly built for $0 down
+                  websites effortlessly built ontop of your SEO strategy
                 </h2>
               </div>
               <p>
                 Save money and never get locked into a toxic contract again. Get
-                a customized website for $0 down, $249 per month, no minimum
-                monthly contract, pay-as-you-go, and cancel anytime with no fees
-                or hassles for full control of what you’re spending. Our
-                prebuilt websites are less expensive compared to regular,
-                custom-built websites while providing the same benefits to your
-                business.
+                a customized SEO plan + free website for $0 down, $249 per
+                month, no minimum monthly contract, pay-as-you-go, and cancel
+                anytime with no fees or hassles for full control of what you’re
+                spending.
               </p>
               <ButtonPrimary to="/contact">
                 book a free call now &#8594;

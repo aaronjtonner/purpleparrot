@@ -37,12 +37,12 @@ export default function Benefits() {
               alt="5 star calgary web design services"
               height={80}
             />
-            <h3 className="title dark caps">prebuilt hand-coded custom websites</h3>
+            <h3 className="title dark caps">
+              prebuilt hand-coded custom SEO websites
+            </h3>
             <p>
               The Purple Parrot's prebuild{" "}
-              <span className="italics dark">
-                highly customizable websites
-              </span>{" "}
+              <span className="italics dark">highly customizable websites</span>{" "}
               meant for maximum speed, lead generation, and SEO.
             </p>
           </BenefitItem>

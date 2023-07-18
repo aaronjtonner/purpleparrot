@@ -25,8 +25,8 @@ export default function index() {
   return (
     <Layout>
       <SEO
-        title="Purple Parrot Websites | Websites Effortlessly Built For $0 Down"
-        description="A one-of-a-kind website leasing service that enables you to have a website without the large upfront cost and practically no work on your part. "
+        title="Purple Parrot Websites | SEO + Free Websites For $0 Down"
+        description="A one-of-a-kind SEO + free website service that enables you to have a website without the large upfront cost and practically no work on your part. "
       />
       <Hero />
       <Clients />
@@ -46,11 +46,11 @@ export default function index() {
               </div>
               <p>
                 We offer prebuilt SEO websites that will get your business
-                online before you can say "Purple Parots"! Our custom, hand-coded SEO
-                websites come prebuilt which means you don’t have to go through
-                the excruciating pain of working with your typical web design
-                company as they take 3+ months to build out your website from
-                scratch. Instead, finally experience an effortless,
+                online before you can say "Purple Parots"! Our custom,
+                hand-coded SEO websites come prebuilt which means you don’t have
+                to go through the excruciating pain of working with your typical
+                web design company as they take 3+ months to build out your
+                website from scratch. Instead, finally experience an effortless,
                 7-days-or-less website build to launch process where you still
                 get to have as much input as you would like so the website is
                 completely aligned with the vision of your brand. 
@@ -98,8 +98,8 @@ export default function index() {
         </Container>
       </Section>
       <AllReviews
-        subheader="does creating a website feel like climbing everest?"
-        title="dedicated to transforming the way websites are built for our beloved clients"
+        subheader="does SEO elude you?"
+        title="dedicated to transforming the way SEO works for our beloved clients"
       />
       <Benefits />
       <Cta1 />

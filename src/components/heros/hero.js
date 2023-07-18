@@ -91,15 +91,16 @@ export default function HeroBasic() {
                     get a website without the birdin'
                   </p>{" "}
                   <h1 className="caps bold">
-                    Transform your online presence with our exclusive website
-                    leasing service
+                    Fuel your business with a{" "}
+                    <span className="italics">Free Website</span> and Bespoke
+                    SEO
                   </h1>
                 </div>
               </div>
               <p>
-                A one-of-a-kind website leasing service that enables you to have
-                a website without the large upfront cost and practically no work
-                on your part. 
+                Empower your online presence with our one-of-a-kind SEO + free
+                website service that enables you to have a site without the
+                large upfront cost and practically no work on your part. 
               </p>
               <ButtonPrimary to="/contact">
                 book a free call now &#8594;
