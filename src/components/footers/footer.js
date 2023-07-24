@@ -271,11 +271,9 @@ export default function Footer() {
               <p>
                 Save money and never get locked into a toxic contract again. Get
                 a customized website for $0 down, $249 per month, no minimum
-                monthly contract, pay-as-you-go, and cancel anytime with no fees
-                or hassles for full control of what you’re spending. Our
-                prebuilt websites are less expensive compared to regular,
-                custom-built websites while providing the same benefits to your
-                business.
+                monthly contract, and pay-as-you-go. Our prebuilt websites are
+                less expensive compared to regular, custom-built websites while
+                providing the same benefits to your business.
               </p>
             </FlexItem>
           </Flex>

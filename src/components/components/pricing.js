@@ -81,7 +81,7 @@ const Pricing = () => {
                   For businesses just getting started
                 </p>
                 <ButtonSecondary to="/contact">
-                  start trial &#8594;
+                  get started &#8594;
                 </ButtonSecondary>
                 <ul>
                   {/* <li>24/7 Support and maintenance</li>

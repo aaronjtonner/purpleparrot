@@ -92,8 +92,8 @@ export default function HeroBasic() {
                   </p>{" "}
                   <h1 className="caps bold">
                     Fuel your business with a{" "}
-                    <span className="italics">Free Website</span> and Bespoke
-                    SEO
+                    <span className="italics">Free Website</span> and Custom SEO
+                    Solutions
                   </h1>
                 </div>
               </div>

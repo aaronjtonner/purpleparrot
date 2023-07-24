@@ -59,8 +59,7 @@ export default function Benefits() {
               <span className="italics dark">
                 save money by getting a customized website for $0 down
               </span>
-              , on a wildly affordable monthly investment starting at $249 where
-              you can cancel at anytime with no fees or hassles.
+              , on a wildly affordable monthly investment.
             </p>
           </BenefitItem>
           <BenefitItem className="spacing center">

@@ -103,7 +103,7 @@ export default function index() {
       />
       <Benefits />
       <Cta1 />
-      <Team />
+      {/* <Team /> */}
       <Pricing />
       <FormContact title="Write us a message!" />
     </Layout>
